@@ -96,7 +96,7 @@ $german = array(
   'event_calendar:settings:autopersonal:title' => "Veranstaltungen, die ein/e BenutzerIn in ihren/seinen persönlichen Kalender einträgt, automatisch hinzufügen. Automatically add events a user creates to his/her personal calendar.",/*Gender!*/
   'event_calendar:settings:autogroup:title' => "Gruppenveranstaltungen automatisch in die persönlichen Kalender aller Mitglieder eintragen.",
   'event_calendar:settings:agenda_view:title' => "Agendaansicht benutzen",
-  'event_calendar:settings:venue_view:title' => " Veranstaltungsort in der �bersicht anzeigen (Veranstaltungslisten)",
+  'event_calendar:settings:venue_view:title' => " Veranstaltungsort in der Übersicht anzeigen (Veranstaltungslisten)",
   'event_calendar:settings:yes' => "ja",
   'event_calendar:settings:no' => "nein",
   'event_calendar:settings:site_calendar:title' => "Gemeinsamer Kalender",
@@ -105,7 +105,7 @@ $german = array(
   'event_calendar:settings:group_calendar:title' => "Gruppenkalender",
   'event_calendar:settings:group_calendar:admin' => "Ja, nur Admins und Gruppenbesitzer können Veranstaltungen veröffentlichen.",
   'event_calendar:settings:group_calendar:members' => "Ja, jedes Gruppenmitglied kann Veranstaltungen veröffentlichen.",
-  'event_calendar:settings:group_default:title' => "Neue Gruppen sollen standardgemä� einen Gruppenkalender haben.(wenn Gruppenkalender aktiviert sind)",
+  'event_calendar:settings:group_default:title' => "Neue Gruppen sollen standardgemäß einen Gruppenkalender haben.(wenn Gruppenkalender aktiviert sind)",
   'event_calendar:settings:group_default:no' => "Nein (Admins oder Gruppenbesitzer können aber auf Wunsch den Gruppenkalender anschalten).",
   'event_calendar:settings:group_default:yes' => "Ja (Admins oder Gruppenbesitzer können aber auf Wunsch den Gruppenkalender auschalten).",
   'event_calendar:settings:group_always_display:title' => "Wenn er aktiviert ist, soll der Gruppenkalender immer angezeigt werden(auch wenn er leer ist).",
@@ -124,7 +124,7 @@ $german = array(
   'event_calendar:settings:last_date:title' => "Letztes zulässiges Datum (im YYYY-MM-DD Format)",
   'event_calendar:enable_event_calendar' => "Gruppen-Veranstaltungskalender aktivieren",
   'event_calendar:no_events_found' => "Keine Veranstaltungen gefunden.",
-  'event_calendar:mine' => "Mine",/*Kontext*/
+  'event_calendar:mine' => "Mein",/*Kontext*/
   'event_calendar:feature' => "Feature",/*??*/
   'event_calendar:unfeature' => "Unfeature",/*??*/
   'event_calendar:agenda:column:time' => "Zeit",
@@ -157,15 +157,15 @@ $german = array(
   'event_calendar:add_users_notify:subject' => "Eine neue Veranstaltung wurde zu Ihrem persönlichen Kalender hinzugefügt.",
   'event_calendar:add_users_notify:body' => "%s,\n\nThe \"%s\" Veranstaltung wurde Ihrem Kalender hinzugefügt.\n\n Dies können Sie hier betrachten: \n\n%s\n",
 
-  'event_calendar:settings:region_list_handles:title' => "Die eingetragenen Regionen sind Platzhalter. Verwenden Sie das Elgg �bersetzungssystem um sie zu übersetzen.",
-  'event_calendar:settings:type_list_handles:title' => "Die eingetragenen Veranstaltungstypen sind Platzhalter. Verwenden Sie das Elgg �bersetzungssystem um sie zu übersetzen.",
+  'event_calendar:settings:region_list_handles:title' => "Die eingetragenen Regionen sind Platzhalter. Verwenden Sie das Elgg Übersetzungssystem um sie zu übersetzen.",
+  'event_calendar:settings:type_list_handles:title' => "Die eingetragenen Veranstaltungstypen sind Platzhalter. Verwenden Sie das Elgg Übersetzungssystem um sie zu übersetzen.",
 
-  'event_calendar:settings:personal_manage:title' => "Kalender Berechtigungen",/*??*/
+  'event_calendar:settings:personal_manage:title' => "Kalender Berechtigungen",
   'event_calendar:settings:personal_manage:description' => "entscheidet, ob Leute Veranstaltungen zu ihren persönlichen Kalendern hinzufügen können,(offen), "
       ."eine Anfrage an den Ersteller einer Veranstaltung richten müssen(geschlossen), gar keine Option haben (privat), oder ob es dem Ersteller einer Veranataltung erlaubt ist dies bei jeder Veranstaltung neu zu bestimmen(je nach Veranstaltung). "
       ."Wenn Sie privat wählen, beachten Sie, dass Sie weiter oben dem Ersteller einer Veranstaltung und dem Seiten-Administrator wahrscheinlich erlauben sollten,"
       ."Veranstaltung zu den persönlichen Kalendern anderer hinzuzufügen.",
-  'event_calendar:strapline' => "veröffentlicht %s von %s",/*"�$%*/
+  'event_calendar:strapline' => "veröffentlicht %s von %s",
 
   'event_calendar:request_event_response' => "Ihre Anfrage zu der Veranstaltung hinzugefügt zu werden wurde verschickt.",
   'event_calendar:request_event_error' => "Fehler: Ihre Anfrage zu der Veranstaltung hinzugefügt zu werden konnte nicht verschickt werden.",
@@ -196,10 +196,10 @@ Sie können die Anfragen für diese Veranstaltung hier verwalten:
   'event_calendar:review_requests:error:approve' => "Fehler: konnte die Anfrage nicht bestätigen.",
   'event_calendar:review_requests:error:reject' => "Fehler: konnte die Anfrage nicht ablehnen.",
 
-  'event_calendar:settings:hide_access:title' => "Verstecke Veranstaltungszugangs-Dropdown.Hide event access drop down",/*??*/
-  'event_calendar:settings:default_access:title' => "Wenn der Veranstaltungszugang versteckt ist, was soll standardgemä� passieren?",
+  'event_calendar:settings:hide_access:title' => "Verstecke Veranstaltungszugangs-Dropdown.Hide event access drop down",
+  'event_calendar:settings:default_access:title' => "Wenn der Veranstaltungszugang versteckt ist, was soll standardgemäß passieren?",
   'event_calendar:settings:hide_end:title' => "Verstecke den Endzeitpunkt und das Datum",
-  'event_calendar:settings:more_required:title' => "Mache alle sichtbaren Felder au�er der Langbeschreibung zu Pflichtfeldern.",
+  'event_calendar:settings:more_required:title' => "Mache alle sichtbaren Felder außer der Langbeschreibung zu Pflichtfeldern.",
 
   'event_calendar:add_to_group:remove_group_title' => "Entfernen Sie diese Veranstaltung aus der Gruppe",
   'event_calendar:add_to_group:remove_group_button' => "Aus der Gruppe entfernen",
@@ -247,7 +247,7 @@ Sie können die Anfragen für diese Veranstaltung hier verwalten:
   'event_calendar:manage_subscribers:success' => "Persönliche Kalender sind aktualisiert.",
   'event_calendar:manage_subscribers:error' => "Fehler: Konnte die persönlichen Kalender nicht aktualisieren.",
   'event_calendar:personal_manage:open' => "öffnen",
-  'event_calendar:personal_manage:closed' => "schlie�en",
+  'event_calendar:personal_manage:closed' => "schließen",
   'event_calendar:personal_manage:private' => "privat",
   'event_calendar:personal_manage:by_event' => "nach Veranstaltung",
   'event_calendar:personal_manage:label' => "Persönliche Kalender",
