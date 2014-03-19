@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 $german = array(
 
@@ -80,7 +80,7 @@ $german = array(
   'event_calendar:removed_from_the_calendar' => "Vom Kalender entfernt",
   'event_calendar:add_to_the_calendar_response' => "Die Veranstaltung wurde zum Kalender dieser Person hinzugefügt.",
   'event_calendar:add_to_the_calendar_error' => "Die Veranstaltung konnte nicht zum Kalender dieser Person hinzugefügt werden."
-        ."(Vielleicht ist die Veranstaltung ausgebucht oder überschneidet sich mit einer anderen Veranstaltung im Kalender ?)",
+        ."(Vielleicht ist die Veranstaltung ausgebucht oder überschneidet sich mit einer anderen Veranstaltung im Kalender?)",
   'event_calendar:remove_from_the_calendar_response' => "Veranstaltung wurde vom Kalender dieser Person entfernt.",
 
   'event_calendar:users_for_event_menu_title' => "Personen, die dieses Event in ihren persönlichen Kalender eingetragen haben.",
@@ -124,9 +124,9 @@ $german = array(
   'event_calendar:settings:last_date:title' => "Letztes zulässiges Datum (im YYYY-MM-DD Format)",
   'event_calendar:enable_event_calendar' => "Gruppen-Veranstaltungskalender aktivieren",
   'event_calendar:no_events_found' => "Keine Veranstaltungen gefunden.",
-  'event_calendar:mine' => "Mein",/*Kontext*/
-  'event_calendar:feature' => "Feature",/*??*/
-  'event_calendar:unfeature' => "Unfeature",/*??*/
+  'event_calendar:mine' => "Mein",
+  'event_calendar:feature' => "Hervorheben",
+  'event_calendar:unfeature' => "Nicht mehr hervorheben",
   'event_calendar:agenda:column:time' => "Zeit",
   'event_calendar:agenda:column:session' => "Sitzung",
   'event_calendar:agenda:column:venue' => "Ort",
@@ -196,7 +196,7 @@ Sie können die Anfragen für diese Veranstaltung hier verwalten:
   'event_calendar:review_requests:error:approve' => "Fehler: konnte die Anfrage nicht bestätigen.",
   'event_calendar:review_requests:error:reject' => "Fehler: konnte die Anfrage nicht ablehnen.",
 
-  'event_calendar:settings:hide_access:title' => "Verstecke Veranstaltungszugangs-Dropdown.Hide event access drop down",
+  'event_calendar:settings:hide_access:title' => "Verstecke Veranstaltungszugangs-Dropdown.",
   'event_calendar:settings:default_access:title' => "Wenn der Veranstaltungszugang versteckt ist, was soll standardgemäß passieren?",
   'event_calendar:settings:hide_end:title' => "Verstecke den Endzeitpunkt und das Datum",
   'event_calendar:settings:more_required:title' => "Mache alle sichtbaren Felder außer der Langbeschreibung zu Pflichtfeldern.",
